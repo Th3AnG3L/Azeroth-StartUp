@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WorldDatabase>acore_world</WorldDatabase>
+  <AuthDatabase>acore_auth</AuthDatabase>
+  <MySQLServerHost>localhost</MySQLServerHost>
+  <MySQLServerUser>acore</MySQLServerUser>
+  <MySQLServerPassword>acore</MySQLServerPassword>
+  <MySQLServerPort>3306</MySQLServerPort>
+  <MySQLExecutableName>mysql.exe</MySQLExecutableName>
+  <MySQLExecutablePath>D:\wamp64\bin\mysql\mysql5.7.36\bin\</MySQLExecutablePath>
+  <WorldExecutableLocation>D:\WoW\Server\</WorldExecutableLocation>
+  <AuthExecutableLocation>D:\WoW\Server\</AuthExecutableLocation>
+  <WorldExecutableName>worldserver.exe</WorldExecutableName>
+  <AuthExecutableName>authserver.exe</AuthExecutableName>
+  <ServerCrash>false</ServerCrash>
+  <NotificationSound>true</NotificationSound>
+  <StayInTray>false</StayInTray>
+  <RunWithWindows>false</RunWithWindows>
+  <RunServerWithWindows>false</RunServerWithWindows>
+  <DatabaseEncryption>false</DatabaseEncryption>
+  <SelectedCore>AzerothCore</SelectedCore>
+</Settings>
