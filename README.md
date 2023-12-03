@@ -7,6 +7,8 @@ Azeroth StartUp Tool - Advanced World of Warcraft Server Management Tool
 The Ultimate Server Management Tool for WoW Emulator projects! 
 
 Supports: AzerothCore, TrinityCore, CypherCore, cMangos, ASCemu...
+
+Game Versions Support: 3.3.5a
 ## Screenshots
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
