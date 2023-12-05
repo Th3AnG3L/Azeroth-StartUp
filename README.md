@@ -23,6 +23,8 @@ Game Versions Support: 3.3.5a
 - Game Configuration (Game version support)
 - Management MySQL, WorldServer and AuthServer
 - Advanced Log System
+- Auto-Restart Server Applications
+- Custom ToolTips Messages
 
 ## Custom Features Coming
 - FullScreen Mode - Not Done 0%
@@ -31,8 +33,6 @@ Game Versions Support: 3.3.5a
 - AI BOT Support - Not Done 0%
 - Sounds Notifications - Not Done 0%
 - Send Email Notifications - Not Done 2% (Using Outlook default build to send)
-- Detect and Log Server Errors and Crash Issues - Not Done 0%
-- Auto-Restart Server Application on Crash - Not Done 0%
 
 ## RoadMap
 
@@ -46,6 +46,8 @@ Game Versions Support: 3.3.5a
 | CPU and RAM usage Server | ✔️ |
 | Notifications | ✔️ |
 | Advanced Log System | ✔️ |
+| Auto-Restart Server Applications | ✔️ |
+| Custom ToolTips Messages | ✔️ |
 | FullScreen Mode | ❌ |
 | Multi-Language Support | ❌ |
 | Database Management Game | ❌ |
@@ -70,7 +72,7 @@ Go to project directory and start project.
 **OS:** Windows 10
 
 
-**Client:** VB.NET (2019)
+**Client:** VB.NET (Visual Studio 2019+)
 
 
 **Framework:** .Net Framework 4.7+
