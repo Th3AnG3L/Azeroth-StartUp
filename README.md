@@ -22,6 +22,7 @@ Game Versions Support: 3.3.5a
 - Notifications
 - Game Configuration (Game version support)
 - Management MySQL, WorldServer and AuthServer
+- Advanced Log System
 
 ## Custom Features Coming
 - FullScreen Mode - Not Done 0%
@@ -44,6 +45,7 @@ Game Versions Support: 3.3.5a
 | PC CPU and RAM usage | ✔️ |
 | CPU and RAM usage Server | ✔️ |
 | Notifications | ✔️ |
+| Advanced Log System | ✔️ |
 | FullScreen Mode | ❌ |
 | Multi-Language Support | ❌ |
 | Database Management Game | ❌ |
@@ -97,6 +99,7 @@ Go to project directory and start project.
 
 - [@Th3AnG3L](https://github.com/Th3AnG3L) - Me for creating the project
 - [@fIyingPhoenix](https://github.com/fIyingPhoenix) - For great start idea
+- [@Bunifu](https://bunifuframework.com/) - .NET Framework
 - [@](#) - And you..
 
 
