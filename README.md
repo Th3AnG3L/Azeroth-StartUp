@@ -54,8 +54,6 @@ Game Versions Support: 3.3.5a
 | AI BOT Support | ❌ |
 | Sounds Notifications | ❌ |
 | Send Email Notifications | ❌ |
-| Detect and Log Server Errors | ❌ |
-| Auto-Restart Server Application | ❌ |
 
 
 ## Installation
