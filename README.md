@@ -25,6 +25,7 @@ Game Versions Support: 3.3.5a
 - Advanced Log System
 - Auto-Restart Server Applications
 - Custom ToolTips Messages
+- System Tray Icon & Menu
 
 ## Custom Features Coming
 - FullScreen Mode - Not Done 0%
@@ -48,6 +49,7 @@ Game Versions Support: 3.3.5a
 | Advanced Log System | ✔️ |
 | Auto-Restart Server Applications | ✔️ |
 | Custom ToolTips Messages | ✔️ |
+| System Tray Icon & Menu | ✔️ |
 | FullScreen Mode | ❌ |
 | Multi-Language Support | ❌ |
 | Database Management Game | ❌ |
