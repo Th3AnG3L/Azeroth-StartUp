@@ -1,4 +1,4 @@
-
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=MLG26QWSR5BWW)
 ![Logo](https://i.ibb.co/g6KnNY0/logowow.png)
 
 # Azeroth-StartUp
@@ -96,6 +96,9 @@ Go to project directory and start project.
 
 - Yes you can, if you desire to make donation feel free to support us.
 
+## Donate
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=MLG26QWSR5BWW)
 
 ## Authors
 
