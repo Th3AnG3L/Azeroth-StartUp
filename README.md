@@ -26,6 +26,8 @@ Game Versions Support: 3.3.5a
 - Auto-Restart Server Applications
 - Custom ToolTips Messages
 - System Tray Icon & Menu
+- Send Email Notifications - Outlook & Gmail Support
+- Send Email with ScreenShot - Warning user CPU high
 
 ## Custom Features Coming
 - FullScreen Mode - Not Done 0%
@@ -33,7 +35,6 @@ Game Versions Support: 3.3.5a
 - Database Management Game - Not Done 0%
 - AI BOT Support - Not Done 0%
 - Sounds Notifications - Not Done 0%
-- Send Email Notifications - Not Done 2% (Using Outlook default build to send)
 
 ## RoadMap
 
@@ -50,12 +51,13 @@ Game Versions Support: 3.3.5a
 | Auto-Restart Server Applications | ✔️ |
 | Custom ToolTips Messages | ✔️ |
 | System Tray Icon & Menu | ✔️ |
+| Send Email Notifications | ✔️ |
+| Send Email with ScreenShot - Warning CPU Usage | ✔️ |
 | FullScreen Mode | ❌ |
 | Multi-Language Support | ❌ |
 | Database Management Game | ❌ |
 | AI BOT Support | ❌ |
 | Sounds Notifications | ❌ |
-| Send Email Notifications | ❌ |
 
 
 ## Installation
