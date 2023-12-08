@@ -28,6 +28,7 @@ Game Versions Support: 3.3.5a
 - System Tray Icon & Menu
 - Send Email Notifications - Outlook & Gmail Support
 - Send Email with ScreenShot - Warning user CPU high
+- Auto-Start Program when Windows Load
 
 ## Custom Features Coming
 - FullScreen Mode - Not Done 0%
@@ -53,6 +54,7 @@ Game Versions Support: 3.3.5a
 | System Tray Icon & Menu | ✔️ |
 | Send Email Notifications | ✔️ |
 | Send Email with ScreenShot - Warning CPU Usage | ✔️ |
+| Auto-Start Program when Windows Load | ✔️ |
 | FullScreen Mode | ❌ |
 | Multi-Language Support | ❌ |
 | Database Management Game | ❌ |
