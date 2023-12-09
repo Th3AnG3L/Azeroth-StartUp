@@ -29,6 +29,8 @@ Game Versions Support: 3.3.5a
 - Send Email Notifications - Outlook & Gmail Support
 - Send Email with ScreenShot - Warning user CPU high
 - Auto-Start Program when Windows Load
+- Auto-Start Server Programs when Program starts
+- Send Email to User if all servers are not working (10 minutes)
 
 ## Custom Features Coming
 - FullScreen Mode - Not Done 0%
@@ -55,6 +57,8 @@ Game Versions Support: 3.3.5a
 | Send Email Notifications | ✔️ |
 | Send Email with ScreenShot - Warning CPU Usage | ✔️ |
 | Auto-Start Program when Windows Load | ✔️ |
+| Auto-Start Server Programs when Program starts | ✔️ |
+| Send Email if servers not working (10 minutes) | ✔️ |
 | FullScreen Mode | ❌ |
 | Multi-Language Support | ❌ |
 | Database Management Game | ❌ |
