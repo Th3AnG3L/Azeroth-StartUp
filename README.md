@@ -31,6 +31,9 @@ Game Versions Support: 3.3.5a
 - Auto-Start Program when Windows Load
 - Auto-Start Server Programs when Program starts
 - Send Email to User if all servers are not working (10 minutes)
+- Create Accounts
+- Change Passwords
+- Login in Program (using Accounts and GMLevel)
 
 ## Custom Features Coming
 - FullScreen Mode - Not Done 0%
@@ -59,6 +62,9 @@ Game Versions Support: 3.3.5a
 | Auto-Start Program when Windows Load | ✔️ |
 | Auto-Start Server Programs when Program starts | ✔️ |
 | Send Email if servers not working (10 minutes) | ✔️ |
+| Create Accounts | ✔️ |
+| Change Passwords | ✔️ |
+| Login with GMLevel | ✔️ |
 | FullScreen Mode | ❌ |
 | Multi-Language Support | ❌ |
 | Database Management Game | ❌ |
@@ -113,6 +119,7 @@ Go to project directory and start project.
 - [@Th3AnG3L](https://github.com/Th3AnG3L) - Me for creating the project
 - [@fIyingPhoenix](https://github.com/fIyingPhoenix) - For great start idea
 - [@Bunifu](https://bunifuframework.com/) - .NET Framework
+- [@ShadowEvil](#) - Support for understanding Logic in SRP6
 - [@](#) - And you..
 
 
