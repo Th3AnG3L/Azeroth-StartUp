@@ -94,7 +94,7 @@ Game Versions Support: 3.3.5a
 | Send Email if servers not working (10 minutes) | ✔️ |
 | Create Accounts | ✔️ |
 | Change Passwords | ✔️ |
-| Login with GMLevel | ❌ |
+| Login with GMLevel | ✔️ |
 | Delete Account | ❌ |
 | Update Account | ✔️ |
 | Update Realm Settings | ✔️ |
