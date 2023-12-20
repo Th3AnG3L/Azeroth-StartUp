@@ -72,6 +72,38 @@ Game Versions Support: 3.3.5a
 | Sounds Notifications | ❌ |
 
 
+## Tested Feautures
+
+| Features     | Testing Checked                                                           
+| ----------------- | ------------------------------------------------------------------ |
+| Settings |  ✔️ |
+| MySQL |  ✔️ |
+| Encryption |  ✔️ |
+| Server Cores Support All | ❌ |
+| PC CPU and RAM usage | ✔️ |
+| CPU and RAM usage Server | ✔️ |
+| Notifications | ✔️ |
+| Advanced Log System | ✔️ |
+| Auto-Restart Server Applications | ✔️ |
+| Custom ToolTips Messages | ✔️ |
+| System Tray Icon & Menu | ✔️ |
+| Send Email Notifications | ✔️ |
+| Send Email with ScreenShot - Warning CPU Usage | ✔️ |
+| Auto-Start Program when Windows Load | ✔️ |
+| Auto-Start Server Programs when Program starts | ✔️ |
+| Send Email if servers not working (10 minutes) | ✔️ |
+| Create Accounts | ✔️ |
+| Change Passwords | ✔️ |
+| Login with GMLevel | ❌ |
+| Delete Account | ❌ |
+| Update Account | ✔️ |
+| Update Realm Settings | ✔️ |
+| Create GM Level | ✔️ |
+| Mute Account | ❌ |
+| Ban Account | ❌ |
+| Update-Delete Database Structures Correctly | ❌ |
+
+
 ## Installation
 
 How to download the project:
