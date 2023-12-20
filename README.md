@@ -12,7 +12,7 @@ Game Versions Support: 3.3.5a
 ## Screenshots
 
 ![App Screenshot](https://i.ibb.co/H4ZTZ8B/Capture.jpg)
-
+![App Screenshot](https://i.ibb.co/3MkW1Nm/Capture2.jpg)
 
 ## Features
 
