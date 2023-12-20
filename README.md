@@ -95,7 +95,7 @@ Game Versions Support: 3.3.5a
 | Create Accounts | ✔️ |
 | Change Passwords | ✔️ |
 | Login with GMLevel | ✔️ |
-| Delete Account | ❌ |
+| Delete Account | ✔️ |
 | Update Account | ✔️ |
 | Update Realm Settings | ✔️ |
 | Create GM Level | ✔️ |
