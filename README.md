@@ -11,7 +11,7 @@ Supports: AzerothCore, TrinityCore, CypherCore, cMangos, ASCemu...
 Game Versions Support: 3.3.5a
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://ibb.co/7Chthmj))
 
 
 ## Features
