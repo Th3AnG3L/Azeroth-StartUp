@@ -69,11 +69,11 @@ Game Versions Support: 3.3.5a
 | Login with GMLevel | ✔️ |
 | Ticket System | ✔️ |
 | Delete Characters | ✔️ |
+| Sounds Notifications | ✔️ |
 | FullScreen Mode | ❌ |
 | Multi-Language Support | ❌ |
 | Database Management Game | ❌ |
 | AI BOT Support | ❌ |
-| Sounds Notifications | ❌ |
 
 
 ## Tested Feautures
@@ -105,6 +105,7 @@ Game Versions Support: 3.3.5a
 | Create GM Level | ✔️ |
 | Ticket System | ✔️ |
 | Delete Characters | ✔️ |
+| Sounds Notifications | ✔️ |
 | Mute Account | ❌ |
 | Ban Account | ❌ |
 | Update-Delete Database Structures Correctly | ❌ |
