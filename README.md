@@ -35,6 +35,7 @@ Game Versions Support: 3.3.5a
 - Change Passwords
 - Login in Program (using Accounts and GMLevel)
 - Ticket System
+- Delete Characters
 
 ## Custom Features Coming
 - FullScreen Mode - Not Done 0%
@@ -67,6 +68,7 @@ Game Versions Support: 3.3.5a
 | Change Passwords | ✔️ |
 | Login with GMLevel | ✔️ |
 | Ticket System | ✔️ |
+| Delete Characters | ✔️ |
 | FullScreen Mode | ❌ |
 | Multi-Language Support | ❌ |
 | Database Management Game | ❌ |
@@ -102,6 +104,7 @@ Game Versions Support: 3.3.5a
 | Update Realm Settings | ✔️ |
 | Create GM Level | ✔️ |
 | Ticket System | ✔️ |
+| Delete Characters | ✔️ |
 | Mute Account | ❌ |
 | Ban Account | ❌ |
 | Update-Delete Database Structures Correctly | ❌ |
