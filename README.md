@@ -36,13 +36,13 @@ Game Versions Support: 3.3.5a
 - Login in Program (using Accounts and GMLevel)
 - Ticket System
 - Delete Characters
+- Database Management
 
 ## Custom Features Coming
 - FullScreen Mode - Not Done 0%
 - Multi-Language Support - Not Done 0%
 - Database Management Game - Not Done 0%
 - AI BOT Support - Not Done 0%
-- Sounds Notifications - Not Done 0%
 
 ## RoadMap
 
@@ -70,9 +70,9 @@ Game Versions Support: 3.3.5a
 | Ticket System | ✔️ |
 | Delete Characters | ✔️ |
 | Sounds Notifications | ✔️ |
+| Database Management | ✔️ |
 | FullScreen Mode | ❌ |
 | Multi-Language Support | ❌ |
-| Database Management Game | ❌ |
 | AI BOT Support | ❌ |
 
 
@@ -106,6 +106,7 @@ Game Versions Support: 3.3.5a
 | Ticket System | ✔️ |
 | Delete Characters | ✔️ |
 | Sounds Notifications | ✔️ |
+| Database Management | ✔️ |
 | Mute Account | ❌ |
 | Ban Account | ❌ |
 | Update-Delete Database Structures Correctly | ❌ |
