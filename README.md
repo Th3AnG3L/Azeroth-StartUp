@@ -37,6 +37,7 @@ Game Versions Support: 3.3.5a
 - Ticket System
 - Delete Characters
 - Database Management
+- Character Management
 
 ## Custom Features Coming
 - FullScreen Mode - Not Done 0%
@@ -71,6 +72,7 @@ Game Versions Support: 3.3.5a
 | Delete Characters | ✔️ |
 | Sounds Notifications | ✔️ |
 | Database Management | ✔️ |
+| Character Management | ✔️ |
 | FullScreen Mode | ❌ |
 | Multi-Language Support | ❌ |
 | AI BOT Support | ❌ |
@@ -107,6 +109,7 @@ Game Versions Support: 3.3.5a
 | Delete Characters | ✔️ |
 | Sounds Notifications | ✔️ |
 | Database Management | ✔️ |
+| Character Management | ✔️ |
 | Mute Account | ❌ |
 | Ban Account | ❌ |
 | Update-Delete Database Structures Correctly | ❌ |
