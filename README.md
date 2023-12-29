@@ -13,6 +13,9 @@ Game Versions Support: 3.3.5a
 
 ![App Screenshot](https://i.ibb.co/H4ZTZ8B/Capture.jpg)
 ![App Screenshot](https://i.ibb.co/3MkW1Nm/Capture2.jpg)
+![App Screenshot](https://i.ibb.co/4P4qK1r/Capture3.jpg)
+![App Screenshot](https://i.ibb.co/VYZ4DvW/Capture4.jpg)
+![App Screenshot](https://i.ibb.co/jHt8CjX/Capture5.jpg)
 
 ## Features
 
@@ -42,7 +45,6 @@ Game Versions Support: 3.3.5a
 ## Custom Features Coming
 - FullScreen Mode - Not Done 0%
 - Multi-Language Support - Not Done 0%
-- Database Management Game - Not Done 0%
 - AI BOT Support - Not Done 0%
 
 ## RoadMap
@@ -110,8 +112,8 @@ Game Versions Support: 3.3.5a
 | Sounds Notifications | ✔️ |
 | Database Management | ✔️ |
 | Character Management | ✔️ |
-| Mute Account | ❌ |
-| Ban Account | ❌ |
+| Mute Account | ✔️ |
+| Ban Account | ✔️ |
 | Update-Delete Database Structures Correctly | ❌ |
 
 
